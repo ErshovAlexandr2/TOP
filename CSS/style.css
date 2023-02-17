@@ -41,6 +41,15 @@ header{
    color: aliceblue;
    box-sizing: border-box;
 }
+header.car{
+    background-image:url(../img/headerBGCar.png) ;
+}
+header.animalplanet{
+    background-image: url(../img/headerBGEnimals.png);
+}
+header.flower{
+    background-image: url(../img/headerBGPlants.png);
+}
 footer{
     background-color: black;
     width: 100%;
